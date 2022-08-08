@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#ffffff" />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="196x196"
+            href="/icons/favicon-196.png"
+        />
+        <link
+            rel="shortcut icon"
+            type="image/x-icon"
+            href="/icons/favicon.ico"
+        />
+        <link rel="apple-touch-icon" href="/icons/apple-icon-180.png" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="application-name" content="Happy Independence Day" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta
+            name="apple-mobile-web-app-title"
+            content="Happy Independence Day"
+        />
+        <title>Happy Independence Day Wishes image with Name Generator</title>
+        <meta
+            name="description"
+            content="Happy Independence Day Greeting Wishes image with Name - Happy Independence Day."
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+        <link rel="manifest" href="/manifest.json" />
+    </head>
+    <body>
+        <div
+            class="min-h-screen px-4 py-16 mx-auto sm:px-6 lg:px-8 bg-gray-200"
+        >
+            <div class="max-w-lg mx-auto">
+                <div class="aspect-w-16 aspect-h-9">
+                    <div style="font-family: 'Anek Tamil', sans-serif">
+                        <canvas
+                            class="w-full"
+                            id="Canvas"
+                            width="1080px"
+                            height="1080px"
+                        ></canvas>
+                    </div>
+                </div>
+                <div id="result"></div>
+                <form
+                    method="get"
+                    accept-charset="UTF-8"
+                    class="p-8 mt-6 mb-0 space-y-4 rounded-lg shadow-2xl"
+                    style="background-color: #94a3b8"
+                >
+                    <div class="relative mt-1">
+                        <input
+                            type="text"
+                            id="name"
+                            name="name"
+                            class="w-full p-4 pr-12 text-sm border-gray-200 rounded-lg shadow-sm text-lg"
+                            placeholder="Your Name"
+                            maxlength="30"
+                            autocomplete="off"
+                            required
+                        />
+                    </div>
+                    <button
+                        type="submit"
+                        class="block w-full px-5 py-3 text-lg font-medium text-gray-700 bg-orange-200 rounded-lg"
+                    >
+                        Create Now
+                    </button>
+                </form>
+            </div>
+            <br />
+        </div>
+        <script type="module" src="/main.js"></script>
+    </body>
+</html>

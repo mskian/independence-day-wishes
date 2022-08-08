@@ -1,0 +1,5 @@
+# Netlify redirects file, edit with your domain
+# https://www.netlify.com/docs/redirects/
+
+https://indwish.netlify.app/* https://india.sanweb.info/:splat 301!
+http://indwish.netlify.app/* https://india.sanweb.info/:splat 301!
