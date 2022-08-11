@@ -1,5 +1,7 @@
 # Independence Day Wish image with Name
 
+[![build-script](https://github.com/mskian/independence-day-wishes/actions/workflows/build.yml/badge.svg)](https://github.com/mskian/independence-day-wishes/actions/workflows/build.yml)  
+
 ⚡ Vitejs | ✨ Tailwind CSS | 📸 HTML Canvas  | 🌩 Netlify Hosting
 
 Happy Independence Day Greeting Wishes image with Name - Happy Independence Day Greeting image Generator.
