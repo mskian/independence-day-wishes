@@ -20,7 +20,8 @@ Happy Independence Day Greeting Wishes image with Name - Happy Independence Day 
 - Prettier - Beautify the Code files
 - Slugify - Slugify the User input and Convert to URL
 - Netlify for Free Hosting - `netlify deploy --prod --dir=dist`
-- Netlify Prerendering - <https://docs.netlify.com/site-deploys/post-processing/prerendering/>  
+- Netlify Prerendering - <https://docs.netlify.com/site-deploys/post-processing/prerendering/>
+- For Analytics I use umami - Remove it or Replace mine with your umami Analytics Script - <https://github.com/umami-software/umami>  
 
 ## Installation 📦
 
