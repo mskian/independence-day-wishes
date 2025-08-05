@@ -8,7 +8,7 @@ Happy Independence Day Greeting Wishes image with Name - Happy Independence Day 
 
 > Happy Independence Day India Greeting image Maker with Name  
 
-- Live Site - <https://india.sanweb.info>
+- Live Site - [<https://github.com/mskian/independence-day-app>](https://github.com/mskian/independence-day-app)
 
 ## Methods Used ⚙
 
